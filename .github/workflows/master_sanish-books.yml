@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Sanish-books'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_33CE3A2C6127435FA72B74BCBAEC1986 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3258ED28936E429E914936ACEC932446 }}
           package: .
